@@ -1,0 +1,6 @@
+nome = input("Digite seu nome: ")
+idade = input("Digite a sua idade: ")
+sexo = input("Digite o seu sexo: ")
+print("Nome armazenado:",nome)
+print("Idade armazenada:",idade)
+print("Sexo armazenado:",sexo)
