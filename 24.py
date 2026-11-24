@@ -1,4 +1,5 @@
 # Crie uma lista vazia de convidados, adicione 3 nomes, remova um convidado que desistiu e exiba a lista final.
+
 import random
 lista_de_convidados = []
 for convidado in range(1, 4):
