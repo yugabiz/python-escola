@@ -1,3 +1,5 @@
+# Crie um programa que leia a quantidade (em Kg) de morangos e maças compradas e exiba o valor total a pagar.
+
 morango = float(input('Digite em (kg)s a quantidade de morango(s): '))
 maça = float(input('Digite em kg(s) a quantidade de maça(s): '))
 if morango > 5:
