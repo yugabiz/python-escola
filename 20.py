@@ -1,3 +1,5 @@
+# Leia as temperaturas médias dos 12 meses, armazene-as em uma lista, calcule a média anual e mostre as temperaturas acima da média, indicando seus respectivos meses.
+
 temperaturas = []
 soma_temp = 0
 meses = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
