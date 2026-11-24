@@ -1,3 +1,5 @@
+# Crie um script que leia um número e mostre o sue dobro, triplo.
+
 num = int(input("Digite um número: "))
 dobro = num * 2
 triplo = num * 3
