@@ -1,3 +1,6 @@
+# Crie um programa que verifique se um empregado pode se aposentar. Ele estará qualificado se atender a pelo menos um dos seguintes critérios:
+# ter 65 anos ou mais; ter 30 anos ou mais de trabalho; ter 60 anos ou mais de idade e 25 anos ou mais de trabalho.
+
 código = int(input('Digite o seu código de funcionário: '))
 a_a = int(input('Digite o ano atual: '))
 a_n = int(input('Digite o ano do seu nascimento: '))
