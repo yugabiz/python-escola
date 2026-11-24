@@ -1,7 +1,4 @@
-#Crie um programa que comece com uma lista vazia de
-convidados. Permita que o usuário adicione 3 nomes usando o
-método apropriado e, em seguida, remova um convidado que
-desistiu. Exiba a lista final.#
+# Crie uma lista vazia de convidados, adicione 3 nomes, remova um convidado que desistiu e exiba a lista final.
 import random
 lista_de_convidados = []
 for convidado in range(1, 4):
