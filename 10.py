@@ -1,3 +1,6 @@
+# Leia as idades de 2 homens e 2 mulheres, calcule e escreva a soma da idade do homem mais velho com a mulher mais nova e o produto da idade do homem mais novo com a mulher mais velha.
+# Calcule e escreva a soma das idades do homem mais velho com a mulher mais nova e o produto das idades do homem mais novo com a mulher mais velha.
+
 h1 = int(input('Idade do primeiro homem: '))
 h2 = int(input('Idade do segundo homem: '))
 m1 = int(input('Idade da primeira mulher: '))
