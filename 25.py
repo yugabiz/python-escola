@@ -1,3 +1,5 @@
+# Peça ao usuário 7 temperaturas, armazene-as em uma lista e utilize um laço `for` para calcular e exibir a temperatura máxima, a mínima e a média da semana.
+
 semana = ['Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado', 'Domingo']
 somaTemperatura = 0
 temperaturas = []
