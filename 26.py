@@ -1,3 +1,5 @@
+# Crie uma lista com 10 números inteiros, percorra-a e armazene os números pares em uma nova lista, exibindo o resultado.
+
 números = []
 pares = []
 for número in range(1, 11):
